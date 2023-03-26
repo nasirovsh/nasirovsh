@@ -1,13 +1,13 @@
 # Nasirov Shavkat
 
 
-⤷ Interested in creating distributed microservices architecture following DDD, TDD and clean codes
+⤷ Interested in creating distributed microservices using Python, FastAPI with help of clean codes, DDD, TDD, Agile Methodologies.
 
   
 
-⚐ Based in seoul, south korea
+⚐ Based in Seoul, South Korea
 
-ϟ Currently Building a platform to launch e-commerce sites. Creating tools to improve life of buyers, e-market owners, sellers and suppliers.
+ϟ Currently Building a platform to launch e-commerce channels. Creating tools to improve life of buyers, e-commerce channel owners, sellers and suppliers.
 
 
 
