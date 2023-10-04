@@ -7,7 +7,7 @@
 
 ⚐ Based in Seoul, South Korea
 
-ϟ Currently Building a platform to launch e-commerce channels. Creating tools to improve life of buyers, e-commerce channel owners, sellers and suppliers.
+ϟ Currently Building multi-supplier, multi-seller, multi-marketplace e-commerce platform. Creating tools to improve life of buyers, e-commerce marketplace owners, sellers and suppliers.
 
 
 
