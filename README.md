@@ -1,15 +1,32 @@
-# Nasirov Shavkat
+# 👋 Hello, I'm Shavkat Nosirov
 
+Full Stack Engineer with 13+ years of experience building scalable web solutions and AI-integrated applications. Passionate about crafting efficient, high-performance code and solving complex problems.
 
-⤷ Interested in creating distributed microservices using Python, FastAPI with help of clean codes, DDD, TDD, Agile Methodologies.
+##  💻 Tech Stack
 
-  
+* Backend: Python (FastAPI, Django), Java (Spring Boot), gRPC
+* Frontend: TypeScript, React
+* Databases: PostgreSQL, MySQL, MongoDB, Redis
+* DevOps: Docker, Kubernetes, AWS, Azure
 
-⚐ Based in Seoul, South Korea
+##  🚀 What I'm up to
 
-ϟ Currently Building multi-supplier, multi-seller, multi-marketplace e-commerce platform. Creating tools to improve life of buyers, e-commerce marketplace owners, sellers and suppliers.
+* Architecting microservices for large-scale e-commerce platforms
+* Developing AI-powered chatbots and machine learning solutions
+* Optimizing backend systems for high-frequency transactions
 
+##  🌱 Always learning
 
+Currently exploring advanced AI integration in web applications and diving deeper into cloud-native technologies.
 
- ## Skills
-   <a href="https://cplusplus.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/cplus.svg" alt="C++" width="25" height="25" /></a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/csharp.svg" alt="C#" width="25" height="25" /></a> <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a>   <a href="https://graphql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/graphql.svg" alt="GraphQL" width="25" height="25" /></a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" /></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a> <a href="https://www.heroku.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/heroku.svg" alt="Heroku" width="25" height="25" /></a> 
+##  📫 Let's connect
+
+Feel free to reach out for collaborations or just a chat about tech!
+
+[LinkedIn](https://www.linkedin.com/in/shavkatn/) | shavkat.nosirov@gmail.com
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,django,flask,javascript,typescript,html,java,react,git,kubernetes,docker,aws,gcp,azure&titles=true" />
+  </a>
+</p>
