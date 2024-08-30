@@ -6,12 +6,12 @@ Full Stack Engineer with 13+ years of experience building scalable web solutions
 
 * Backend: Python (FastAPI, Django), Java (Spring Boot), gRPC
 * Frontend: TypeScript, React
-* Databases: PostgreSQL, MySQL, MongoDB, Redis
+* Databases: PostgreSQL, MySQL, MongoDB, Redis, Kafka
 * DevOps: Docker, Kubernetes, AWS, Azure
 
 ##  🚀 What I'm up to
 
-* Architecting microservices for large-scale e-commerce platforms
+* Architecting microservices for large-scale platforms
 * Developing AI-powered chatbots and machine learning solutions
 * Optimizing backend systems for high-frequency transactions
 
